@@ -1,0 +1,3 @@
+<resources>
+    <style name="Theme.UnitConverter" parent="Theme.MaterialComponents.Light.NoActionBar" />
+</resources>
