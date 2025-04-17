@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Unit Converter</string>
+    <string name="hint_from">From</string>
+    <string name="hint_value">Value</string>
+    <string name="hint_to">To</string>
+    <string name="from_unit_spinner_description">Select the unit to convert from</string>
+    <string name="to_unit_spinner_description">To unit selection</string>
+</resources>
