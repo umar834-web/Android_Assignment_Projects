@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Unit Converter</string>
+    <string name="enter_value">Enter value</string>
+    <string name="convert">Convert</string>
+    <string name="app_theme">App Theme</string>
+    <string name="light_theme">Light Theme</string>
+    <string name="dark_theme">Dark Theme</string>
+    <string name="settings_button">Settings</string>
+</resources>
